@@ -1,0 +1,12 @@
+
+@media (max-width: 991px) {
+    .cart-icon{
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    .cart-word {
+        display: block; /* o block, según tu diseño */
+    }
+}
